@@ -6,6 +6,9 @@ Domine Git e Github do 0 ao profissional
 **testando**
 _testando o itálico_
 
+
+- [x] login com vs code
+- [ ] login com facebook
 ## Modulos
 * começando com GIT
 * Aprendendo sobre branches
@@ -17,3 +20,9 @@ _testando o itálico_
     3. Git
 2. Meio
 3. Fim
+> exemplo de blockquote
+
+
+```
+asdasd
+```
