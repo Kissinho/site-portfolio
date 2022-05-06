@@ -10,3 +10,7 @@ _testando o itálico_
 * começando com GIT
 * Aprendendo sobre branches
 * Git avançado
+
+1. Começo
+2. Meio
+3. Fim
