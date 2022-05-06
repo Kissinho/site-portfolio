@@ -5,3 +5,8 @@ Domine Git e Github do 0 ao profissional
 
 **testando**
 _testando o itálico_
+
+## Modulos
+* começando com GIT
+* Aprendendo sobre branches
+* Git avançado
