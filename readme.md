@@ -12,8 +12,8 @@ _testando o itálico_
 * Git avançado
 
 1. Começo
-        1. Git
-        2. Git
-        3. Git
+    1. Git
+    2. Git
+    3. Git
 2. Meio
 3. Fim
